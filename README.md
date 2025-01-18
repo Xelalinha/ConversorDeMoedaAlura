@@ -29,5 +29,4 @@ O usuário pode digitar o valor a ser convertido, e o programa retornará o valo
 - Instalar o **GSON** no programa.
 
 ## Desenvolvedor
-Alex Gabriel de Araujo
- - Participante do Programa ONE da Alura
+Alex Gabriel de Araujo - Participante do Programa ONE da Alura
