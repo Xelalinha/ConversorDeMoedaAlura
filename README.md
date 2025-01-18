@@ -26,7 +26,8 @@ O usuário pode digitar o valor a ser convertido, e o programa retornará o valo
 
 - **Java 11 ou superior** instalado em sua máquina.
 - **IDE** para rodar o código (exemplo: IntelliJ IDEA, Eclipse, ou NetBeans).
+- Instalar o **GSON** no programa.
 
 ## Desenvolvedor
 Alex Gabriel de Araujo
-Participante do Programa ONE da Alura
+ - Participante do Programa ONE da Alura
